@@ -1,1 +1,2 @@
-A repository for my projects made using SQL.
+# SQL-Projects
+A Repository For My SQL Projects.
